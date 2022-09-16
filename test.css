@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+
+body {
+    background-color: #b8cfe7;
+}
+
+.background {
+    width: 300px;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.title {
+    color: #1f3251;
+    font-size: 20px;
+}
+
+p{
+    font-size: 13px;
+    margin: 15px;
+}
